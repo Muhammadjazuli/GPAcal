@@ -1,0 +1,45 @@
+
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+th, td {
+    text-align: left;
+    padding: 16px;
+  }
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  .input-btn{
+    padding-top: 17px;
+    border-radius: 5px;
+  }
+  #btn-calculate{
+    margin-right: 2%;
+    float: right;
+    border-radius: 5px;
+  }
+  h1{
+    text-align: center;
+  }
+  #btn-add{
+    padding: 7px;
+    border-radius: 7px;
+    width: 5%;
+  }
+  select{
+    padding: 5px;
+    border-radius: 5px;
+    width: 5%;
+  }
+  #input-your-gpa{
+    padding: 0px;
+    border-radius: 3px;
+    height: 5%;
+    width: 5%;
+  }
+  #div1{
+    box-shadow: #f2f2f2;
+  }
+
